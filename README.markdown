@@ -157,4 +157,4 @@ important parts of the code. Let me know if anything is unclear or
 broken by opening an issue or [sending me an email](http://ryanfunduk.com).
 
 I suggest perusing [the Connect docs](https://stripe.com/docs/connect) before
-trying to dig into the code.
+trying to dig into the code. Also, the [receipe connect](https://stripe.com/docs/recipes#connect) docs is useful.
